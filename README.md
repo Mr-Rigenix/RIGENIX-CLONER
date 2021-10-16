@@ -22,4 +22,4 @@ cd RIGENIX-CLONER
 
 ls
 
-python2 takedownfighters.py
+python2 akilcloner.py
