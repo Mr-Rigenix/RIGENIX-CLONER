@@ -23,3 +23,7 @@ cd RIGENIX-CLONER
 ls
 
 python2 akilcloner.py
+
+Username: TakeDownFighters
+
+Password: Akil
